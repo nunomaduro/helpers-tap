@@ -2,7 +2,8 @@
   "name": "helpers-tap",
   "version": "1.0.0-beta.0",
   "description": "Call the given Closure with the given value then return the value",
-  "main": "tap.js",
+  "main": "dist/tap.js",
+  "types": "dist/tap.d.ts",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^24.0.13",
